@@ -26,7 +26,7 @@ app_service_plans = {
     name         = "cmaz-eh8dj90z-mod5-asp-02"
     location     = "West Europe"
     rg_name      = "cmaz-eh8dj90z-mod5-rg-02"
-    sku          = "P1v3"
+    sku          = "P0v3"
     worker_count = 1
   }
 }
